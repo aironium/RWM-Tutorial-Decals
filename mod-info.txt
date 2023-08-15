@@ -1,0 +1,8 @@
+[mod]
+title: Decal Tutorials
+description: Shows various applications of decals
+
+
+tags: units, 3d
+
+minVersion: 1.15p9
